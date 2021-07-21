@@ -9,8 +9,8 @@ At the end of the AWS Machine Learning Foundations Course, learners will take an
 
 ❤| Udacity AWS Machine Learning Foundations Scholorship Program | Status
 --- | ---| ---
-1 | Welcome to the AWS Machine Learning Foundations Course | &#9744;
-2 | Introduction to Machine Learning |  &#9744;
+1 | Welcome to the AWS Machine Learning Foundations Course | &#9745;
+2 | Introduction to Machine Learning |  &#9746;
 3 | Machine Learning with AWS |  &#9744;
 4 | Software Engineering Practices, part 1 |  &#9744;
 5 | Software Engineering Practices, part 2 |  &#9744;
